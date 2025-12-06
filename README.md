@@ -6,11 +6,11 @@ This project aimed to build proficiency in editing, modifying, and managing conf
 
 ### Skills Learned
 
--Navigating and editing files with nano and vim in Linux environments
--Updating configuration files for security tools and penetration tests
--Editing scripts and logs during investigations and system triage
--Efficiently searching, replacing, and formatting data within text editors
--Strenghten CLI proficiency for remote server operations
+- Navigating and editing files with nano and vim in Linux environments
+- Updating configuration files for security tools and penetration tests
+- Editing scripts and logs during investigations and system triage
+- Efficiently searching, replacing, and formatting data within text editors
+- Strenghten CLI proficiency for remote server operations
 
 ### Tools Used
 
