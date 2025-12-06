@@ -13,7 +13,6 @@ This project aimed to build proficiency in editing, modifying, and managing conf
 -Strenghten CLI proficiency for remote server operations
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
 
 - Nano for quick log edits, config adjustments and note taking
 - Vim for advanced text manipulation, scripting and multi mode editing
