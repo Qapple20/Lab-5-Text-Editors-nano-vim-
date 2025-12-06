@@ -20,15 +20,15 @@ This project aimed to build proficiency in editing, modifying, and managing conf
 - Configuration files from tools like Nmap and Burp for editing practice
 
 ## Steps
-1. Created and edited a configuration file using Nano, demonstrating basic file manipulation and CLI text editing skills
+1. Created and edited a configuration file using Nano, demonstrating foundational CLI text editing skills used for configuration files and documentation
    <img width="468" height="485" alt="image" src="https://github.com/user-attachments/assets/5d16f3d2-e3e0-488e-941b-5d7b2ace34fc" />
 
-2. Modified script content inside Nano, showcasing proficiency with in-terminal editing workflows
+2. Modified script or text content inside Nano, showcasing efficient in-terminal editing and file-saving workflows in a Linux environment
    <img width="468" height="257" alt="image" src="https://github.com/user-attachments/assets/da1348b5-4845-40f9-8c83-b6506f07dda3" />
 
-3. Perfomed file edits in Vim, navigating between insert and command modes to update log entries
+3. Perfomed file edits in Vim, navigating between insert and command modes to update log entries or configuration content accurately
    <img width="423" height="445" alt="image" src="https://github.com/user-attachments/assets/1bb76f76-dac0-4374-aa03-3462c7608c56" />
 
-4. Used vim to correct formatting and update text content, demonstrating multi-mode editing capability
+4. Used additional Vim navigation and formatting commands to clean up and finalize edited text, reinforcing multi-mode editor proficiency
   <img width="468" height="508" alt="image" src="https://github.com/user-attachments/assets/89bcd7ac-52d5-4ebd-97c6-5ba65ddc2930" />
    
